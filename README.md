@@ -1,5 +1,6 @@
 # YAMADA✡SEXTA
-![image](https://github.com/nannoda/nannoda/assets/114621472/164015ba-0c50-40e0-a6b4-ff89a9b17a89)
+![Shijima reading The Rust Programming Language](https://github.com/user-attachments/assets/c9181d7e-9905-4b5d-944c-64d313e11bff)
+
 
 ```
 ＿人人人人人人人人人人人人＿
