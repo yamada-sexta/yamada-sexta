@@ -1,4 +1,4 @@
-# YAMADA✡SEXTA
+# YAMADA✴︎SEXTA
 ![fish-spin](https://github.com/user-attachments/assets/9292db90-ece3-4f40-955d-63155fc61ea5)
 
 
