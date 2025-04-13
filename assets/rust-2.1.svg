@@ -20,15 +20,15 @@
    inkscape:pageopacity="0.0"
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
-   inkscape:zoom="1.0444444"
-   inkscape:cx="738.1915"
-   inkscape:cy="640.0532"
-   inkscape:window-width="1281"
-   inkscape:window-height="1190"
-   inkscape:window-x="26"
-   inkscape:window-y="23"
-   inkscape:window-maximized="0"
-   inkscape:current-layer="svg93" />
+   inkscape:zoom="11.816539"
+   inkscape:cx="754.28174"
+   inkscape:cy="418.39661"
+   inkscape:window-width="3840"
+   inkscape:window-height="2091"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="g92" />
 <desc
    id="desc1">Created with Fabric.js 5.2.4</desc>
 <defs
@@ -232,12 +232,13 @@
    transform="matrix(0.13 0 0 -0.13 215.02 -6.46)"
    id="g11">
 <path
-   style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"
+   style="opacity:1;fill:#000000;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
    vector-effect="non-scaling-stroke"
-   d="M 8294 4156 C 8287 4136 8296 4110 8310 4110 C 8323 4110 8323 4157 8310 4165 C 8304 4168 8297 4164 8294 4156 z"
+   d="m 8284.2946,4150.7314 c -4.9411,-26.9608 8.3721,-40.4373 22.3721,-40.4373 13,0 27.8038,39.451 3.3333,54.7059 -6,3 -22.4281,0.6638 -25.7054,-14.2686 z"
    stroke-linecap="round"
    id="path11"
-   transform=" translate(-8305.66, -4138)" />
+   transform="translate(-8305.66,-4138)"
+   sodipodi:nodetypes="cscc" />
 </g>
 		<g
    transform="matrix(0.13 0 0 -0.13 231.54 -1.49)"
