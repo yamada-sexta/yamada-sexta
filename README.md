@@ -1,10 +1,17 @@
 # YAMADA SEXTA
 
-## Personal Projects:
+## Public Projects:
+
+### Apps:
 - **[MemosM](https://github.com/yamada-sexta/memos-m):** a fast Memos Client.
 - **[RVC](https://github.com/yamada-sexta/rvc-webgui-fork):** a fork of the RVC that has newer python support.
-- **[touitomamout-next](https://github.com/yamada-sexta/touitomamout-next):** Twitter post synchronizer.
 - **[YT Music GTK](https://github.com/yamada-sexta/ytmusic-gtk):** Thrid party YouTube Music Client.
+
+### Homelab:
+- **[touitomamout-next](https://github.com/yamada-sexta/touitomamout-next):** Twitter post synchronizer.
+
+### Utils:
+- **(shx)[https://shx.pages.dev/]:** a collection of shell scripts.
 
 
 
