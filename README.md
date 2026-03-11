@@ -11,7 +11,7 @@
 - **[touitomamout-next](https://github.com/yamada-sexta/touitomamout-next):** Twitter post synchronizer.
 
 ### Utils:
-- **(shx)[https://shx.pages.dev/]:** a collection of shell scripts.
+- **[shx](https://shx.pages.dev/):** a collection of shell scripts.
 
 
 
