@@ -1,6 +1,6 @@
-# YAMADA✴︎SEXTA
+# YAMADA SEXTA
 
-## My Projects:
+## Personal Projects:
 - **[MemosM](https://github.com/yamada-sexta/memos-m):** a fast Memos Client.
 - **[RVC](https://github.com/yamada-sexta/rvc-webgui-fork):** a fork of the RVC that has newer python support.
 - **[touitomamout-next](https://github.com/yamada-sexta/touitomamout-next):** Twitter post synchronizer.
