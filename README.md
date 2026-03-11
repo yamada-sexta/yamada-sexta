@@ -1,15 +1,11 @@
 # YAMADA✴︎SEXTA
-![fish-spin](https://github.com/user-attachments/assets/9292db90-ece3-4f40-955d-63155fc61ea5)
+
+## My Projects:
+- **[MemosM](https://github.com/yamada-sexta/memos-m):** a fast Memos Client.
+- **[RVC](https://github.com/yamada-sexta/rvc-webgui-fork):** a fork of the RVC that has newer python support.
+- **[touitomamout-next](https://github.com/yamada-sexta/touitomamout-next):** Twitter post synchronizer.
+- **[YT Music GTK](https://github.com/yamada-sexta/ytmusic-gtk):** Thrid party YouTube Music Client.
 
 
-![Shijima reading The Rust Programming Language](./assets/rust-2.1.svg)
 
-
-```
-＿人人人人人人人人人人人人人人人＿
-＞　　Archをやっています！！！　＜
-￣Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y￣
-      /
-( ﾟ∀ﾟ)
-```
 ![image](https://count.getloli.com/@yamada-sexta?name=yamada-sexta&theme=3d-num&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
