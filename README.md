@@ -2,6 +2,8 @@
 
 ## Public Projects:
 
+> Most public projects are for fun.
+
 ### Apps:
 - **[MemosM](https://github.com/yamada-sexta/memos-m):** a fast Memos Client.
 - **[RVC](https://github.com/yamada-sexta/rvc-webgui-fork):** a fork of the RVC with newer python support.
