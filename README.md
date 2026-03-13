@@ -18,7 +18,7 @@ Most public projects are for fun :)
 ### Utils:
 - **[shx](https://shx.pages.dev/):** a collection of shell scripts.
 
-### Fun:
+### Useless:
 - **[Cubism](https://github.com/yamada-sexta/cubism):** a Canvas based UI library.
 - **[Calculator](https://github.com/yamada-sexta/calculator):** an one shot vibe-coded calculator in GTK.
 
