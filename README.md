@@ -17,6 +17,7 @@ Most public projects are for fun :)
 
 ### Utils:
 - **[shx](https://shx.pages.dev/):** a collection of shell scripts.
+- **[lytro-py](https://github.com/yamada-sexta/lytro-py):** a Lytro driver in Python.
 
 ### Useless:
 - **[Cubism](https://github.com/yamada-sexta/cubism):** a Canvas based UI library.
