@@ -9,6 +9,8 @@
 
 ### Homelab:
 - **[touitomamout-next](https://github.com/yamada-sexta/touitomamout-next):** Twitter post synchronizer.
+- **[exchange-rate-bot](https://github.com/yamada-sexta/exchange-rate-bot):** monitor currency exchange rate on Discord.
+
 
 ### Utils:
 - **[shx](https://shx.pages.dev/):** a collection of shell scripts.
