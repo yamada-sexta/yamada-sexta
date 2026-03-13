@@ -18,6 +18,9 @@ Most public projects are for fun :)
 ### Utils:
 - **[shx](https://shx.pages.dev/):** a collection of shell scripts.
 
+### Guides:
+- [How to extract Duo MFA code from an Android device](https://gist.github.com/yamada-sexta/dd45f35a92cd2c4778db018663e65fd5)
+
 ### Useless:
 - **[Cubism](https://github.com/yamada-sexta/cubism):** a Canvas based UI library.
 - **[Calculator](https://github.com/yamada-sexta/calculator):** an one shot vibe-coded calculator in GTK.
