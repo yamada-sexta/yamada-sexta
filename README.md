@@ -1,8 +1,10 @@
 # YAMADA SEXTA
 
+Trying to make the world a marginally better place :)
+
 ## Public Projects:
 
-Most public projects are for fun :)
+Most public projects are for fun.
 
 ### Apps:
 - **[MemosM](https://github.com/yamada-sexta/memos-m):** a fast Memos Client.
